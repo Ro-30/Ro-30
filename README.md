@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rohit
-- 👀 I’m interested in web development, django, sql
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m @Rohit Devendra Sawant
+- 👀 I’m interested in web development, django, MERN
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me rosawant51@gmail.com
 
 <!---
